@@ -3,6 +3,7 @@ Rencana bisnis Rizwan
 * saya mau buat beberapa varian
     - ANuglar
     - Tambahin dong pakai reactJs Juga
+    - ssss ajdsjakksad
 - Bergabung dengan prusahaan dibidang it
     - Laravel
 - Fundamental data structor

@@ -6,3 +6,4 @@ Rencana bisnis Rizwan
     - asdasfa
 - Fundamental data structor
 - amdsm
+- Menambahkan react

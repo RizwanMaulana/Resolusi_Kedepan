@@ -1,6 +1,6 @@
 Rencana bisnis Rizwan
 - Membuat bisnis deo
-* saya mau buat beberapa variant
+* saya mau buat beberapa varian
     - ANuglar
 - Bergabung dengan prusahaan dibidang it
     - Laravel

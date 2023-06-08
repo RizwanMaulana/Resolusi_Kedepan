@@ -1,5 +1,9 @@
 Rencana bisnis Rizwan
 - Membuat bisnis deo
 * saya mau buat beberapa variant
+    - ANuglar
 - Bergabung dengan prusahaan dibidang it
+    - Laravel
 - Fundamental data structor
+- viuJs
+-nodeJS

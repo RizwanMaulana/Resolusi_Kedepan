@@ -2,3 +2,4 @@ Rencana bisnis Rizwan
 - Membuat bisnis deo
 * saya mau buat beberapa variant
 - Bergabung dengan prusahaan dibidang it
+- Fundamental data structor
